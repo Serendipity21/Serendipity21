@@ -1,0 +1,2 @@
+[![Serendipity21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serendipity21&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Serendipity21 lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Serendipity21&hide=html)](https://github.com/anuraghazra/github-readme-stats)
